@@ -1,0 +1,63 @@
+.content {
+    margin: 0px auto;
+    width: 600px;
+}
+.comment {
+    /*border: 1px solid #DDDDDD;*/
+    box-shadow: 0 2px 5px #666666;
+    border-radius: 8px 8px 8px 8px;
+    list-style: none outside none;
+    margin: 15px 0 10px;
+    padding: 15px;
+    width: 96%;
+}
+.comment-avatar {
+    float: left;
+    padding-left: 10px;
+    padding-top: 10px;
+    position: relative;
+    width: 6%;
+    margin-left: 10px;
+}
+.comment-autor {
+    float: left;
+    margin: 10px 10px 19px;
+    
+    position: relative;
+    width: 74%;
+}
+.comment-text {
+    margin-right: 10px;
+    margin-top: 67px;
+    padding-left: 10px;
+    /*padding-top: 10px;*/
+    text-align: justify;
+}
+#register_form {
+    box-shadow: 0 2px 5px #666666;
+    border-radius: 8px 8px 8px 8px;
+    list-style: none outside none;
+    margin: 15px 0 10px;
+    padding: 15px;
+}
+    .box_blue2 {
+    background-color: #0081C6;
+    cursor: pointer;
+    float: right;
+    height: 27px;
+    margin-top: 16px;
+    text-align: center;
+    vertical-align: middle;
+    width: 70px;
+    color:#fff;
+    font-family: 'ITCFranklinGothicStdBookRg';
+    font-size: 12px;
+    font-weight:normal;
+    border: 0;
+}
+
+.comments_info2 {
+    float: left;
+    margin-top: 13px;
+    width: 580px;
+}
